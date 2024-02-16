@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503861708223",
+    "project_id": "native-otp-verify",
+    "storage_bucket": "native-otp-verify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503861708223:android:e8eed5cdb2b97f5ffa0d0a",
+        "android_client_info": {
+          "package_name": "com.nativeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yoF-zy2V8BuIoq8hyRlhY-XVss9C3s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
